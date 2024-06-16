@@ -3,7 +3,7 @@
 ### Hi there 👋, Victor Miranda
 #### Business Analyst and Student
 
-I was born and raised in the Greater Houston area and recently retired from the Marine Corps. I am fortunate to have a wonderful wife and three amazing teenage daughters. I hold a bachelor’s degree in finance with a minor in computer science. I am eager to continue learning about finance and apply data analysis skills to gain an edge in the market!
+I was born and raised in the Greater Houston area and recently retired from the Marine Corps. I am fortunate to have a wonderful wife and three amazing teenage daughters. I hold a bachelor’s degree in finance with a minor in computer science. **I am eager to continue learning about finance and apply data analysis skills to gain an edge in the market!**
 
 Skills: Leader / DoD Financial Management / Internal Controls / R / Shiny / Java
 
